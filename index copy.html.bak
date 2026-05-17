@@ -58,7 +58,6 @@
 						<span class = "image fit">
 						<p align = "center"> <strong> </strong></p>
 						<embed type="text/html" src="./html/sunburst_circardian.html" width="650" height="650">
-						<embed type="text/html" src="./html/radarplot_circardian.html" width="1000" height="700">
 						<hr>
 
 						<h2>Insomnia content <br></h2>
@@ -71,7 +70,6 @@
 						<span class = "image fit">
 							<p align = "center"> <strong> </strong></p>
 							<embed type="text/html" src="./html/sunburst_insomnia.html" width="650" height="650">
-							<embed type="text/html" src="./html/radarplot_insomnia.html" width="650" height="650">
 							<hr>
 						</span>
 
@@ -85,7 +83,6 @@ Franchi
 						<span class = "image fit">
 							<p align = "center"> <strong> </strong></p>
 							<embed type="text/html" src="./html/sunburst_OSA.html" width="650" height="650">
-							<embed type="text/html" src="./html/radarplot_OSA.html" width="650" height="650">
 							<hr>
 						</span>
 
@@ -109,7 +106,6 @@ Franchi
 						<span class = "image fit">
 							<p align = "center"> <strong> </strong></p>
 							<embed type="text/html" src="./html/sunburst_generic_content.html" width="650" height="650">
-							<embed type="text/html" src="./html/radarplot_generic_plot.html" width="1000" height="1000">
 							<hr>
 						</span>
 
